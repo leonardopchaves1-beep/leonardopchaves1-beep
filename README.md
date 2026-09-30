@@ -65,4 +65,6 @@ Gosto de aprender na prática, construindo projetos e integrando **front-end, ba
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardopchaves1-beep&show_icon
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardopchaves1-beep&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardopchaves1-beep&layout=compact&theme=tokyonight" />
+</p>
